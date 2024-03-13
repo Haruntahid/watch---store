@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "img": "https://i.ibb.co/sKxsRcy/Rolex-Submariner-Hulk-Steel-Black-Dial-and-Smurf-1068x900.jpg",
+    "brand": "Rolex",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster Professional",
+    "img": "https://i.ibb.co/pPFvpYS/2024-updated-omega-speedmaster-dark-side-of-the-moon-apollo-8-co-axial-master-chronometer-chronograp.jpg",
+    "brand": "Omega",
+    "price": 5000
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera",
+    "img": "https://i.ibb.co/z8snBdX/wbn2112-ba0639-still-life-16-9-002-1-1920x1080-c-default.jpg",
+    "brand": "Tag Heuer",
+    "price": 3000
+  },
+  {
+    "id": 4,
+    "name": "Seiko SKX007",
+    "img": "https://i.ibb.co/t8gccnp/d754fe8cfd9c3646467a371e36d03337-ixlib-rails-1-1.jpg",
+    "brand": "Seiko",
+    "price": 200
+  },
+  {
+    "id": 5,
+    "name": "Casio G-Shock",
+    "img": "https://i.ibb.co/DknYHCx/hiddenglow-cai-1920x612.jpg",
+    "brand": "Casio",
+    "price": 100
+  }
+]
